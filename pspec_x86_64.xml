@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-winrm-elevated</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,38 +19,38 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/.rspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/.rubocop.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/VERSION</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/appveyor.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/changelog.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated/scripts/elevated_shell.ps1</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib/winrm/shells/elevated.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/spec/config-example.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/spec/matchers.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/spec/powershell_elevated_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/spec/spec_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/winrm-elevated.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/winrm-elevated-1.1.0.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.rspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.rubocop.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/VERSION</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/appveyor.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/changelog.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated/scripts/elevated_shell.ps1</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm/shells/elevated.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/config-example.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/matchers.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/powershell_elevated_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/spec_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/winrm-elevated.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/winrm-elevated-1.1.0.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>1.1.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
