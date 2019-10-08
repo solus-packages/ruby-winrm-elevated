@@ -1,6 +1,6 @@
 name       : ruby-winrm-elevated
 version    : 1.1.0
-release    : 2
+release    : 3
 source     :
     - https://rubygems.org/downloads/winrm-elevated-1.1.0.gem : 9971bd50f0374c07db4dc5ad9af6b86c397167f1c20e2e88978733222d5f7912
 license    : Apache-2.0
