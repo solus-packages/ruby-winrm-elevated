@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-winrm-elevated</Name>
         <Packager>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,38 +19,21 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.rspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.rubocop.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/VERSION</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/appveyor.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/changelog.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm-elevated/scripts/elevated_shell.ps1</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/lib/winrm/shells/elevated.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/config-example.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/matchers.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/powershell_elevated_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/spec/spec_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/winrm-elevated-1.1.0/winrm-elevated.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/winrm-elevated-1.1.0.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/winrm-elevated-1.2.1/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/winrm-elevated-1.2.1/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/winrm-elevated-1.2.1/lib/winrm-elevated.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/winrm-elevated-1.2.1/lib/winrm-elevated/scripts/elevated_shell.ps1</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/winrm-elevated-1.2.1/lib/winrm/shells/elevated.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/specifications/winrm-elevated-1.2.1.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2019-10-07</Date>
-            <Version>1.1.0</Version>
+        <Update release="4">
+            <Date>2020-06-26</Date>
+            <Version>1.2.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
